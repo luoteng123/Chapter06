@@ -17,7 +17,7 @@
 
 &#8195;&#8195;假设我们有如图1所示的神经网络：
 
-![image.png](./1.png)
+![image.png](https://github.com/luoteng123/Chapter06/blob/master/Chapter06_image/1.png?raw=true)
 
 <center>图1：具有一个隐藏层的简单FNN</center> 
 
